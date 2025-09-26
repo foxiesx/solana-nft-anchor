@@ -4,7 +4,7 @@ Based on the [Mint Your First NFT](https://calyptus.co/lessons/mint-your-first-n
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Contributing](#contributing)   
 - [Questions](#questions)
 - [License](#license)
 
@@ -81,4 +81,4 @@ All files within this repository are licensed under the MIT License unless expli
 
 100% Open Source software.
 
-© 2023 [Calyptus] - See [LICENSE](https://opensource.org/license/mit/) for details.
+
