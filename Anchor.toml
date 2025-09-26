@@ -1,14 +1,15 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
-solana_nft_anchor = "29Zvg7ACK6DHG9qEHKQadP16QCxugn6UD2nDo77Dewgn"
+
+[programs.devnet]
+solana_nft_anchor = "<UPDATE HERE>"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/home/jimii/.config/solana/id.json"
 
 [scripts]
