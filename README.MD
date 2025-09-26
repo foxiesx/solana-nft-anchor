@@ -75,10 +75,4 @@ Head over to our [learning support](https://discord.com/channels/113045775482646
 
 We are always happy to lend a helping hand
 
-## License
 
-All files within this repository are licensed under the MIT License unless explicitly stated otherwise.
-
-100% Open Source software.
-
-© 2023 [Calyptus] - See [LICENSE](https://opensource.org/license/mit/) for details.
